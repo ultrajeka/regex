@@ -1,0 +1,9 @@
+D:\CProjects\regex\regex\bin\Debug\regex.exe.config
+D:\CProjects\regex\regex\bin\Debug\regex.exe
+D:\CProjects\regex\regex\bin\Debug\regex.pdb
+D:\CProjects\regex\regex\obj\Debug\regex.csprojResolveAssemblyReference.cache
+D:\CProjects\regex\regex\obj\Debug\regex.Form1.resources
+D:\CProjects\regex\regex\obj\Debug\regex.Properties.Resources.resources
+D:\CProjects\regex\regex\obj\Debug\regex.csproj.GenerateResource.Cache
+D:\CProjects\regex\regex\obj\Debug\regex.exe
+D:\CProjects\regex\regex\obj\Debug\regex.pdb

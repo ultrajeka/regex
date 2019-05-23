@@ -1,0 +1,9 @@
+D:\Projects\reget\reget\bin\Debug\reget.exe.config
+D:\Projects\reget\reget\bin\Debug\reget.exe
+D:\Projects\reget\reget\bin\Debug\reget.pdb
+D:\Projects\reget\reget\obj\Debug\reget.csprojResolveAssemblyReference.cache
+D:\Projects\reget\reget\obj\Debug\reget.Form1.resources
+D:\Projects\reget\reget\obj\Debug\reget.Properties.Resources.resources
+D:\Projects\reget\reget\obj\Debug\reget.csproj.GenerateResource.Cache
+D:\Projects\reget\reget\obj\Debug\reget.exe
+D:\Projects\reget\reget\obj\Debug\reget.pdb

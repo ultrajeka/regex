@@ -1,0 +1,10 @@
+C:\Users\owen.remont.service\Desktop\reget\reget\bin\Release\regex.exe.config
+C:\Users\owen.remont.service\Desktop\reget\reget\bin\Release\regex.exe
+C:\Users\owen.remont.service\Desktop\reget\reget\bin\Release\regex.pdb
+C:\Users\owen.remont.service\Desktop\reget\reget\bin\Release\GMap.NET.Core.dll
+C:\Users\owen.remont.service\Desktop\reget\reget\bin\Release\GMap.NET.WindowsForms.dll
+C:\Users\owen.remont.service\Desktop\reget\reget\obj\Release\regex.Form1.resources
+C:\Users\owen.remont.service\Desktop\reget\reget\obj\Release\regex.Properties.Resources.resources
+C:\Users\owen.remont.service\Desktop\reget\reget\obj\Release\regex.csproj.GenerateResource.Cache
+C:\Users\owen.remont.service\Desktop\reget\reget\obj\Release\regex.exe
+C:\Users\owen.remont.service\Desktop\reget\reget\obj\Release\regex.pdb
